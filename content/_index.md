@@ -36,4 +36,6 @@ publications:
 
 # Bio
 
-Self-motivated and self-initiated with hands-on experience in multidisciplinary principles within the chemical engineering boundaries. Experienced in both experimental research techniques for catalysis and modeling/simulation for multiphysics -- fluid, thermal, multiphase flow, and chemical reaction. Competent in design and construction of laboratory scale experimental apparatus for high temperature gas phase reaction and in-situ/operando characterization. (Place Holder)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Hobby
