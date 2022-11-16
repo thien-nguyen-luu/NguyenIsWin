@@ -1,6 +1,6 @@
 baseurl: https://nguyeniswin.netlify.app/
 languageCode: en-us
-title: Astatine Theme
+title: Nguyen Is Win
 theme: hugo-astatine-theme
 preserveTaxonomyNames: yes
 rssLimit: 10
@@ -18,22 +18,25 @@ menu:
     - name: Posts
       url: /post/
       weight: -150
-    - name: About
-      url: /about/
-      weight: -110
+    - name: My Project
+      url: /myproject/
+      weight: -140
+    - name: Resumes
+      url: /resumes/
+      weight: -130
     - name: Tags
       url: /tags/
-      weight: -120
+      weight: -110
     - name: Categories
       url: /categories/
-      weight: -130
+      weight: -120
 params:
-  authorName: Jack Harkness
-  description: The homepage of Astatine
+  authorName: Thien Nguyen
+  description: My personal blog
   imgname:
     alt: Profile picture
     blogrss: yes
-    name: img/main.jpg
+    name: /avatar.jpg
     webmention: hugocisneros.com
 sitemap:
   filename: sitemap.xml
