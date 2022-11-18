@@ -10,6 +10,7 @@ tags:
 - Fahrenheit
 - Nothing
 - Interest
+- Python
 title: The beach is a push
 ---
 

@@ -2,11 +2,8 @@
 date: "2018-02-09"
 hideAuthor: true
 hideDate: true
-slug: membrane-optimizer-by-python
 title: Membrane Optimizer by Python
-tags:
-- Python
-- Oprimization
+tags: ["Python","Optimization"]
 ---
 
 ### Here is the content
