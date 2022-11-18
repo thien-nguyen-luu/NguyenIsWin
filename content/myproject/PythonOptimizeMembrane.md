@@ -9,3 +9,8 @@ tags: ["Python","Optimization"]
 ### Here is the content
 
 {{< youtube id="l7As6lBf3Ok" >}}
+
+
+### Something more
+
+{{< embed-pdf url="/example.pdf">}}
