@@ -27,9 +27,6 @@ menu:
     - name: Tags
       url: /tags/
       weight: -110
-    - name: Categories
-      url: /categories/
-      weight: -120
 params:
   authorName: Thien Nguyen
   description: My personal blog

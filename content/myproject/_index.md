@@ -1,4 +1,4 @@
 ---
 
 ---
-Here is the place holder of some project I have done in the past.
+<b><font size="+3"> ✍️ Some projects I've worked on, with context and demonstration.</font></b>
