@@ -40,3 +40,7 @@ params:
     webmention: hugocisneros.com
 sitemap:
   filename: sitemap.xml
+markup:
+  goldmark:
+   renderer:
+     unsafe: true
