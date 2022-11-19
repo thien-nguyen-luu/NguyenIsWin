@@ -5,48 +5,43 @@ imgname:
   type: image/jpeg
   
 name: "Thien Nguyen"
-personal_title: "Blah blah blah"
+personal_title: "Doctoral Researcher"
 address: 
   - 
     name: Belgium
-    street: Nowhere
-    postal_code: "000000"
-    locality: Somewhere
+    street: Somewhere
+    postal_code: "8500"
+    locality: Kortrijk
 
 publications:
   - 
-    me: Rothe, S. 
+    me: Thien, Nguyen
     authors:
-        - Andreyev, A. N. 
-        - Antalic, S.
-        - Borschevsky, A.
-        - Capponi, L.
-        - Cocolios, T. E.
-        - De Witte, H.
-        - Eliav, E
-    title: "Measurement of the First Ionization Potential of Astatine by Laser Ionization Spectroscopy"
+    - Tran, Khoa Anh
+    - Kim Le, Phung Thi
+    - Pham, Viet Vuong
+    - Nguyen, Truc Thanh 
+    - Tran, Tu Ngoc 
+    - Le, Kien Anh
+    title: "Experimental and Computational Fluid Dynamics Investigation of Rice Husk Updraft Gasifier with Various Gasification Agents"
     date: 2013
-    journal: Nature Communications
-    image: img/paper_illustration.png
-    citation: "@article{article,\n
-author = {Rothe, Sebastian and Andreyev, A and Antalic, Stanislav and Borschevsky, Anastasia and Capponi, Luigi and Cocolios, Thomas and De Witte, Hilde and Eliav, Ephraim and Fedorov, D.V. and Fedosseev, Valentin and Fink, D and Fritzsche, s and Ghys, Lars and Huyse, M and Imai, Nobuaki and Kaldor, U and Kudryavtsev, Yu and Koester, Ulli and Lane, J and Wendt, Klaus},\n
-year = {2013},\n
-month = {05},\n
-pages = {1835},\n
-title = {Measurement of the first ionization potential of astatine by laser ionization spectroscopy},\n
-volume = {4},\n
-journal = {Nature communications},\n
-doi = {10.1038/ncomms2819}\n
-}"
-    pdf: https://www.nature.com/articles/ncomms2819.pdf
+    journal: Chemical Engineering Transactions
+    image: img/PaperCFD.png
+    citation: "@article{Tran_Kim Le_Pham_Minh Nguyen_Nguyen_Tran_Le_2018, 
+title={Experimental and Computational Fluid Dynamics Investigation of Rice Husk Updraft Gasifier with Various Gasification Agents}, 
+volume={63}, 
+url={https://www.cetjournal.it/index.php/cet/article/view/CET1863038}, 
+DOI={10.3303/CET1863038}, journal={Chemical Engineering Transactions}, 
+author={Tran, Khoa Anh and Kim Le, Phung Thi and Pham, Viet Vuong and Minh Nguyen, Thien Luu and Nguyen, Truc Thanh and Tran, Tu Ngoc and Le, Kien Anh}, 
+year={2018}, 
+month={May}, 
+pages={223-228}"
+    pdf: https://www.aidic.it/cet/18/63/038.pdf
     links:
       -
         name: Main URL
-        url: "https://www.nature.com/articles/ncomms2819"
-      -
-        name: ResearchGate
-        url: "https://www.researchgate.net/publication/236836716_Measurement_of_the_first_ionization_potential_of_astatine_by_laser_ionization_spectroscopy"
-    description: The radioactive element astatine exists only in trace amounts in nature. Its properties can therefore only be explored by study of the minute quantities of artificially produced isotopes or by performing theoretical calculations. One of the most important properties influencing the chemical behaviour is the energy required to remove one electron from the valence shell, referred to as the ionization potential.
+        url: "https://www.cetjournal.it/index.php/cet/article/view/CET1863038"
+    description: This study compared the effects of two types of gasification agents, air and an air-steam mixture, on syngas composition and cumulative CO. The best steam ratio for the best syngas quality was then determined. The two-dimensional Computational Fluid Dynamics (CFD) model was created to determine the best kinetics model. Geometric parameters were taken from a practical pilot plant gasifier. This simulation was validated by comparing simulation data to experimental data measured by an online gas analyser-TESTO 350XL. The results show that the air-steam mixture has an effect on the composition of CO and H2 in syngas, the H2/CO ratio, and the benefit of using the stream in gasification on both experimental and simulation results.
 ---
 
 # Bio
