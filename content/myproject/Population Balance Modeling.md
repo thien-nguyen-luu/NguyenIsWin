@@ -1,8 +1,8 @@
 ---
-date: "2018-02-09"
+date: "2022-11-01"
 hideAuthor: true
 hideDate: true
-title: Porpulation Balance Model
+title: 📝 Porpulation Balance Model
 tags: ["Model","Particulate"]
 ---
 

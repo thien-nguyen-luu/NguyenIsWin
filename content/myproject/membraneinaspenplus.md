@@ -3,7 +3,7 @@ date: "2020-11-20"
 hideAuthor: true
 hideDate: true
 title: 📝 Membrane In Aspen Plus
-tags: ["Model","Membrane"]
+tags: ["Model","Membrane","Aspen"]
 ---
 
 ### Context
