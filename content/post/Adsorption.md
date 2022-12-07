@@ -125,3 +125,5 @@ The author provides a csv file in [Github](https://github.com/CorySimon/pyIAST) 
 ![](/img/AdsimIAST/SingleIsothermFit.PNG)
 
 #### Use Aspen Adsim for IAST calculation.
+
+![](/img/AdsimIAST/MixtureIsothermIAST.PNG)
