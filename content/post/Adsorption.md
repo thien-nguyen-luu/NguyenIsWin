@@ -103,7 +103,7 @@ The author provides a csv file in [Github](https://github.com/CorySimon/pyIAST) 
 -   We can set the isotherm model by double click on model icon. For isotherm estimation, the compound is set to **"set"** (Don't use physical properties). The isotherm Langmuir 1 is written as:
 
     $$
-    Q(kmol/kg) = IP_1 \frac{IP_2 P(bar) }{1+IP_2P(bar)}
+    Q(kmol/kg) =\frac{IP_1 P(bar) }{1+IP_2P(bar)}
     $$
 
     ![](/img/AdsimIAST/IsothermModel.png)
@@ -125,5 +125,11 @@ The author provides a csv file in [Github](https://github.com/CorySimon/pyIAST) 
 ![](/img/AdsimIAST/SingleIsothermFit.PNG)
 
 #### Use Aspen Adsim for IAST calculation.
+
+-   Build the model (Build sao cho steady va khong bi hu)
+
+-   Nhap mo hinh
+
+-   Luu y ve cach tinh khoi luong adsorbent
 
 ![](/img/AdsimIAST/MixtureIsothermIAST.PNG)
