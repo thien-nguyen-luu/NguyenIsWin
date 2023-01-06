@@ -10,4 +10,3 @@ tags: ["Model","Particulate"]
 
 This is my current PhD-related work.
 
-{{< embed-pdf url="/AdsorptionComplexMixtureProject.pdf">}}
