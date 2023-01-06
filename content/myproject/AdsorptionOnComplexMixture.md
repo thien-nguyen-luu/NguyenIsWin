@@ -6,7 +6,7 @@ title: 📝 Adsorption on Poorly Specified Mixture
 tags: ["Model","Particulate"]
 ---
 
-### Introduction
+### Introduction(2)
 
 This is my current PhD-related work.
 
