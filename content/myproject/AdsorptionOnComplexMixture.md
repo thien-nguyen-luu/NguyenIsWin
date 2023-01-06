@@ -9,4 +9,4 @@ tags: ["Model","Particulate"]
 ### Introduction(2)
 
 This is my current PhD-related work.
-
+{{< embed-pdf url="/AdsorptionComplexMixtureProject .pdf">}}
