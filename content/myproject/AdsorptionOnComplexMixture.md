@@ -1,5 +1,5 @@
 ---
-date: "2023-06-01"
+date: "2022-11-01"
 hideAuthor: true
 hideDate: true
 title: 📝 Adsorption on Poorly Specified Mixture
