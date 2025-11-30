@@ -1,4 +1,3 @@
-<img width="3336" height="1928" alt="image" src="https://github.com/user-attachments/assets/cea8f5a3-8b68-4bec-8db3-fc4801ee9c04" />---
 date: "2018-02-09"
 hideAuthor: true
 hideDate: true
