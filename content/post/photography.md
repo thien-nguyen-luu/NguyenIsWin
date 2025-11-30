@@ -7,5 +7,5 @@ tags:
 title: My Photo Gallery
 ---
 
-### Place Holder
+### Snow in Kortrijk - November 2025
 {{< embed-pdf url="/Kortrijk - 202112025.pdf">}}
