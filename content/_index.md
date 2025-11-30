@@ -43,7 +43,6 @@ publications:
     description: Pyrolysis can convert mixed plastic waste into oil, but heteroatom impurities limit its direct use in steam crackers. This work assessed activated carbon adsorption as a purification method by testing nine key impurities. Benzoic acid showed the highest adsorption capacity, while less polar compounds were difficult to remove. Multicomponent experiments revealed cooperative adsorption for pyridine and competitive behavior for most others. Models that included interactions between impurities described the system more accurately than those without such interactions.
 
   - 
-    me: 
     authors:
     - Khoa Anh Tran,
     - Phung T.K. Le,
