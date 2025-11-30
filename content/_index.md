@@ -135,6 +135,4 @@ A self-motivated researcher with hands-on experience in multidisciplinary princi
 # Hobby
 <font size="+3"> [✍️ **Project**]({{< ref "myproject/" >}})</font> 
 <font size="+3"> [📓 **Manga**]({{< ref "post/mangailike/" >}})</font> 
-<font size="+3"> [💻 **Game**]({{< ref "post/mangailike/" >}})</font> 
-<font size="+3"> [📚 **Book**]({{< ref "post/mangailike/" >}})</font> 
-<font size="+3"> [🎥 **Movies**]({{< ref "post/mangailike/" >}})</font> 
+<font size="+3"> [📷 **Photography**]({{< ref "post/photography/" >}})</font> 
