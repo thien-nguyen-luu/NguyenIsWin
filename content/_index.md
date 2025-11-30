@@ -49,7 +49,7 @@ publications:
     - Phung T.K. Le,
     - Viet Vuong Pham,
     - Truc Thanh Nguyen,
-    - **Thien Nguyen Luu Minh**,
+    - Thien Nguyen Luu Minh,
     - Tu Ngoc Tran,
     - Kien Anh Le,
     title: "Experimental and Computational Fluid Dynamics Investigation of Rice Husk Updraft Gasifier with Various Gasification Agents"
