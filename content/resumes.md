@@ -73,4 +73,6 @@ title: My Résumés
 Thesis topic: CFD simulation of biomass gasification.
 
 ![Figure 1](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Resume/VAM.png)
+<p align="center">Figure 1</p>
+
 
