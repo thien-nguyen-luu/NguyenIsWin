@@ -8,14 +8,39 @@ name: "Thien Nguyen"
 personal_title: "Doctoral Researcher - Ghent University"
 address: 
   - 
-    name:
+    name: thiennm1004@gmail.com
     street: Minister Tacklaan
     postal_code: "8500"
     locality: Kortrijk - Belgium
 
 publications:
+- 
+    me: Thien Nguyen Luu Minh
+    authors:
+    - Michiel Van Melkebeke,
+    - Elisabetta Carrieri,
+    - Joël Hogie,
+    - Hilde Poelman,
+    - Youri Michiels,
+    - Kevin M. Van Geem,
+    - Steven De Meester,
+    title: "Multiple linear regression in adsorption capacity prediction: Application in plastic waste pyrolysis oil purification"
+    date: 2025
+    journal: Separation and Purification Technology
+    image: img/AC_multi_paper.jpg
+    citation: "@article{minh2025multiple,
+  title={Multiple linear regression in adsorption capacity prediction: Application in plastic waste pyrolysis oil purification},
+  author={Minh, Thien Nguyen Luu and Van Melkebeke, Michiel and Carrieri, Elisabetta and Hogie, Jo{\"e}l and Poelman, Hilde and Michiels, Youri and Van Geem, Kevin M and De Meester, Steven},
+  journal={Separation and Purification Technology},  pages={134651},  year={2025},  publisher={Elsevier}}"
+    pdf: https://www.sciencedirect.com/science/article/pii/S1383586625032484
+    links:
+      -
+        name: Main URL
+        url: "https://www.sciencedirect.com/science/article/pii/S1383586625032484"
+    description: This work investigates how heteroatom contaminants, pyrolysis oil composition, and activated carbon characteristics collectively influence adsorption behaviour in plastic-waste-derived pyrolysis oils. By framing adsorption as a ternary system, the study accounts for variations in feedstock composition and reactor operating conditions that are often overlooked. A combination of correlation analysis and experimental design is used to identify key physicochemical descriptors governing adsorption, and multiple regression models are evaluated to determine a suitable predictive relationship for this multivariable system. The study also examines how differences in contaminant polarity and activated carbon surface properties shape adsorption trends across diverse ternary environments.
+
   - 
-    me: Thien Nguyen Luu Minh,
+    me: Thien Nguyen Luu Minh
     authors:
     - Dave Manhaeghe,
     - Gwendoline Bernaert,
@@ -30,12 +55,8 @@ publications:
     citation: "@article{minh2024activated,
   title={Activated carbon adsorption of heteroatom components from pyrolysis oil for improved chemical recycling},
   author={Minh, Thien Nguyen Luu and Manhaeghe, Dave and Bernaert, Gwendoline and Hogie, Jo{\"e}l and Clarembeau, Michel and Van Geem, Kevin M and De Meester, Steven},
-  journal={Chemical Engineering Journal},
-  volume={481},
-  pages={148394},
-  year={2024},
-  publisher={Elsevier}}"
-    pdf: https://www.aidic.it/cet/18/63/038.pdf
+  journal={Chemical Engineering Journal},  volume={481},  pages={148394},  year={2024},  publisher={Elsevier}}"
+    pdf: https://www.sciencedirect.com/science/article/pii/S1385894723071267
     links:
       -
         name: Main URL
@@ -43,7 +64,7 @@ publications:
     description: Pyrolysis can convert mixed plastic waste into oil, but heteroatom impurities limit its direct use in steam crackers. This work assessed activated carbon adsorption as a purification method by testing nine key impurities. Benzoic acid showed the highest adsorption capacity, while less polar compounds were difficult to remove. Multicomponent experiments revealed cooperative adsorption for pyridine and competitive behavior for most others. Models that included interactions between impurities described the system more accurately than those without such interactions.
 
   - 
-    me: Khoa Anh Tran,
+    me: Khoa Anh Tran
     authors:
     - Phung T.K. Le,
     - Viet Vuong Pham,
@@ -61,9 +82,7 @@ volume={63},
 url={https://www.cetjournal.it/index.php/cet/article/view/CET1863038}, 
 DOI={10.3303/CET1863038}, journal={Chemical Engineering Transactions}, 
 author={Tran, Khoa Anh and Kim Le, Phung Thi and Pham, Viet Vuong and Minh Nguyen, Thien Luu and Nguyen, Truc Thanh and Tran, Tu Ngoc and Le, Kien Anh}, 
-year={2018}, 
-month={May}, 
-pages={223-228}"
+year={2018}, month={May}, pages={223-228}"
     pdf: https://www.aidic.it/cet/18/63/038.pdf
     links:
       -
