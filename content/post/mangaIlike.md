@@ -1,4 +1,4 @@
-<img width="474" height="351" alt="image" src="https://github.com/user-attachments/assets/772cb39c-cda1-4d40-bd16-6881c2951014" />---
+---
 date: "2022-11-19"
 tags:
 - Bookcase
