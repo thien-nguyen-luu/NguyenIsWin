@@ -1,4 +1,4 @@
----
+<img width="3336" height="1928" alt="image" src="https://github.com/user-attachments/assets/cea8f5a3-8b68-4bec-8db3-fc4801ee9c04" />---
 date: "2018-02-09"
 hideAuthor: true
 hideDate: true
@@ -73,6 +73,12 @@ title: My Résumés
 Thesis topic: CFD simulation of biomass gasification.
 
 ![Figure 1](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Resume/VAM.png)
-<p align="center">Figure 1</p>
+<p align="center">Figure 1. Pilot-scale adsorbent unit for gas dehydration and gas sweetening testing, with responsibility for the conceptual design, rigorous simulation, and hydraulic sizing.</p>
+
+![Figure 2](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Resume/VAM_PSA.png)
+<p align="center">Figure 2. Lab-scale fixed-bed adsorption unit for nitrogen production and CO₂ capture adsorbent testing.</p>
+
+![Figure 3](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Resume/BK_Thesis.png)
+<p align="center">Figure 3. Gasification Pilot</p>
 
 
