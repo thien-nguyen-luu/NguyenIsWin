@@ -20,3 +20,6 @@ title: My Photo Gallery
 ![](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Photo/De%20Gavers_Harelbeke_2024_2.jpeg)
 ![](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Photo/De%20Gavers_Harelbeke_2024_3.jpeg)
 ![](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Photo/De%20Gavers_Harelbeke_2024_4.jpeg)
+
+### Moon Shot From Ho Chi Minh City - Summer 2024
+![](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Photo/Moon_Shot_HCMCity_2024.jpg)
