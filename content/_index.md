@@ -15,14 +15,14 @@ address:
 
 publications:
   - 
-    me: Thien, Nguyen
+    me: Thien Nguyen Luu Minh,
     authors:
-    - Dave Manhaeghe
-    - Gwendoline Bernaert
-    - Joël Hogie
-    - Michel Clarembeau
-    - Kevin M. Van Geem 
-    - Steven De Meester
+    - Dave Manhaeghe,
+    - Gwendoline Bernaert,
+    - Joël Hogie,
+    - Michel Clarembeau,
+    - Kevin M. Van Geem,
+    - Steven De Meester,
     title: "Activated carbon adsorption of heteroatom components from pyrolysis oil for improved chemical recycling"
     date: 2024
     journal: Chemical Engineering Journal
@@ -43,14 +43,15 @@ publications:
     description: Pyrolysis can convert mixed plastic waste into oil, but heteroatom impurities limit its direct use in steam crackers. This work assessed activated carbon adsorption as a purification method by testing nine key impurities. Benzoic acid showed the highest adsorption capacity, while less polar compounds were difficult to remove. Multicomponent experiments revealed cooperative adsorption for pyridine and competitive behavior for most others. Models that included interactions between impurities described the system more accurately than those without such interactions.
 
   - 
-    me: Thien Nguyen Luu Minh
+    me: 
     authors:
-    - Khoa Anh Tran
-    - Phung T.K. Le
-    - Viet Vuong Pham
-    - Truc Thanh Nguyen 
-    - Tu Ngoc Tran
-    - Kien Anh Le
+    - Khoa Anh Tran,
+    - Phung T.K. Le,
+    - Viet Vuong Pham,
+    - Truc Thanh Nguyen,
+    - **Thien Nguyen Luu Minh**,
+    - Tu Ngoc Tran,
+    - Kien Anh Le,
     title: "Experimental and Computational Fluid Dynamics Investigation of Rice Husk Updraft Gasifier with Various Gasification Agents"
     date: 2018
     journal: Chemical Engineering Transactions
