@@ -26,7 +26,7 @@ publications:
     title: "Activated carbon adsorption of heteroatom components from pyrolysis oil for improved chemical recycling"
     date: 2024
     journal: Chemical Engineering Journal
-    image: img/AC_multi_paper.png
+    image: img/AC_multi_paper.jpg
     citation: "@article{minh2024activated,
   title={Activated carbon adsorption of heteroatom components from pyrolysis oil for improved chemical recycling},
   author={Minh, Thien Nguyen Luu and Manhaeghe, Dave and Bernaert, Gwendoline and Hogie, Jo{\"e}l and Clarembeau, Michel and Van Geem, Kevin M and De Meester, Steven},
