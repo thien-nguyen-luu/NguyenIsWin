@@ -23,25 +23,24 @@ publications:
     - Nguyen, Truc Thanh 
     - Tran, Tu Ngoc 
     - Le, Kien Anh
-    title: "Place Holder for title"
-    date: 2013
-    journal: Chemical Engineering Transactions
+    title: "Activated carbon adsorption of heteroatom components from pyrolysis oil for improved chemical recycling"
+    date: 2024
+    journal: Chemical Engineering Journal
     image: img/PaperCFD.png
-    citation: "@article{Tran_Kim Le_Pham_Minh Nguyen_Nguyen_Tran_Le_2018, 
-title={Experimental and Computational Fluid Dynamics Investigation of Rice Husk Updraft Gasifier with Various Gasification Agents}, 
-volume={63}, 
-url={https://www.cetjournal.it/index.php/cet/article/view/CET1863038}, 
-DOI={10.3303/CET1863038}, journal={Chemical Engineering Transactions}, 
-author={Tran, Khoa Anh and Kim Le, Phung Thi and Pham, Viet Vuong and Minh Nguyen, Thien Luu and Nguyen, Truc Thanh and Tran, Tu Ngoc and Le, Kien Anh}, 
-year={2018}, 
-month={May}, 
-pages={223-228}"
+    citation: "@article{minh2024activated,
+  title={Activated carbon adsorption of heteroatom components from pyrolysis oil for improved chemical recycling},
+  author={Minh, Thien Nguyen Luu and Manhaeghe, Dave and Bernaert, Gwendoline and Hogie, Jo{\"e}l and Clarembeau, Michel and Van Geem, Kevin M and De Meester, Steven},
+  journal={Chemical Engineering Journal},
+  volume={481},
+  pages={148394},
+  year={2024},
+  publisher={Elsevier}}"
     pdf: https://www.aidic.it/cet/18/63/038.pdf
     links:
       -
         name: Main URL
-        url: "https://www.cetjournal.it/index.php/cet/article/view/CET1863038"
-    description: This study compared the effects of two types of gasification agents, air and an air-steam mixture, on syngas composition and cumulative CO. The best steam ratio for the best syngas quality was then determined. The two-dimensional Computational Fluid Dynamics (CFD) model was created to determine the best kinetics model. Geometric parameters were taken from a practical pilot plant gasifier. This simulation was validated by comparing simulation data to experimental data measured by an online gas analyser-TESTO 350XL. The results show that the air-steam mixture has an effect on the composition of CO and H2 in syngas, the H2/CO ratio, and the benefit of using the stream in gasification on both experimental and simulation results.
+        url: "https://www.sciencedirect.com/science/article/pii/S1385894723071267"
+    description: Pyrolysis can convert mixed plastic waste into oil, but heteroatom impurities limit its direct use in steam crackers. This work assessed activated carbon adsorption as a purification method by testing nine key impurities. Benzoic acid showed the highest adsorption capacity, while less polar compounds were difficult to remove. Multicomponent experiments revealed cooperative adsorption for pyridine and competitive behavior for most others. Models that included interactions between impurities described the system more accurately than those without such interactions.
 
   - 
     me: Thien, Nguyen
@@ -53,7 +52,7 @@ pages={223-228}"
     - Tran, Tu Ngoc 
     - Le, Kien Anh
     title: "Experimental and Computational Fluid Dynamics Investigation of Rice Husk Updraft Gasifier with Various Gasification Agents"
-    date: 2013
+    date: 2018
     journal: Chemical Engineering Transactions
     image: img/PaperCFD.png
     citation: "@article{Tran_Kim Le_Pham_Minh Nguyen_Nguyen_Tran_Le_2018, 
@@ -70,7 +69,7 @@ pages={223-228}"
       -
         name: Main URL
         url: "https://www.cetjournal.it/index.php/cet/article/view/CET1863038"
-    description: This study compared the effects of two types of gasification agents, air and an air-steam mixture, on syngas composition and cumulative CO. The best steam ratio for the best syngas quality was then determined. The two-dimensional Computational Fluid Dynamics (CFD) model was created to determine the best kinetics model. Geometric parameters were taken from a practical pilot plant gasifier. This simulation was validated by comparing simulation data to experimental data measured by an online gas analyser-TESTO 350XL. The results show that the air-steam mixture has an effect on the composition of CO and H2 in syngas, the H2/CO ratio, and the benefit of using the stream in gasification on both experimental and simulation results.
+    description: This study investigated how two gasification agents, pure air and an air steam mixture, influence syngas composition and cumulative carbon monoxide. The optimal steam ratio for producing high quality syngas was identified. A two dimensional Computational Fluid Dynamics model was developed to evaluate suitable kinetic models, using geometric parameters taken from a pilot scale gasifier. The simulation was validated against experimental data obtained from an online gas analyser TESTO 350XL. The findings show that adding steam significantly affects the concentrations of carbon monoxide and hydrogen, the hydrogen to carbon monoxide ratio, and overall gasification performance in both experiments and simulations.
 ---
 
 # Bio
