@@ -8,10 +8,10 @@ name: "Thien Nguyen"
 personal_title: "Doctoral Researcher - Ghent University"
 address: 
   - 
-    name: Belgium
+    name:
     street: Minister Tacklaan
     postal_code: "8500"
-    locality: Kortrijk
+    locality: Kortrijk - Belgium
 
 publications:
   - 
