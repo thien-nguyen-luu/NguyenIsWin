@@ -1,5 +1,6 @@
 ---
 date: "2022-11-19"
+hideDate: true
 tags:
 - Nature
 - Photo
