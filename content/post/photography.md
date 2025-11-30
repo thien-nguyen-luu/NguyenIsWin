@@ -4,7 +4,7 @@ tags:
 - Bookcase
 - Manga
 - Relax
-title: The Manga I like
+title: My Photo Gallery
 ---
 
 ### Chainsaw man
