@@ -1,9 +1,9 @@
 ---
 date: "2022-11-19"
 tags:
-- Bookcase
-- Manga
-- Relax
+- Nature
+- Photo
+- Travel
 title: My Photo Gallery
 ---
 
