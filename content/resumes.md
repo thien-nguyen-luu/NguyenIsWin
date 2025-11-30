@@ -48,15 +48,15 @@ title: My Résumés
 
 -   Developed dynamic models to design adsorption process for CO2 capture for Nitrogen production.
 
--   Built a first research and development laboratory in the company for collecting adsorption data.
+-   Built a first research and development laboratory in the company for collecting adsorption data. **(See Figure 1)**
 
--   Programmed Python application to automatically design biogas upgrading units for the French market. **([See more]({{< ref "myproject/pythonoptimizemembrane/" >}}))**
+-   Programmed Python application to automatically design biogas upgrading units for the French market. **([See more]({{< ref "myproject/pythonoptimizemembrane/" >}}))** **(See Figure 2)**
 
 ◆ ***Undergraduate research intern***
 
 *Institute for Tropicalization and Environment, Vietnam*
 
--   Operated pilot gasification reactor.
+-   Operated pilot gasification reactor. **(See Figure 3)**
 
 -   Performed Computational Fluid Dynamic simulation of biomass stream gasification in fix bed gasifier.
 
@@ -71,3 +71,6 @@ title: My Résumés
 ◆ **Bachelor's degree in Chemical Engineering - Honor program (Aug 2012-- Apr 2017)**
 *Ho Chi Minh City-University of Technology, Vietnam*
 Thesis topic: CFD simulation of biomass gasification.
+
+![Figure 1](https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/content/post/images/Resume/VAM.png)
+
