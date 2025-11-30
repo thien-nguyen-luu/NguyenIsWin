@@ -8,3 +8,4 @@ title: My Photo Gallery
 ---
 
 ### Place Holder
+{{< embed-pdf url="/Kortrijk - 202112025.pdf">}}
