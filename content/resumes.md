@@ -8,7 +8,7 @@ title: My Résumés
 <table>
 <thead>
   <tr>
-    <td rowspan="5"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQF41PpwsyaiRw/profile-displayphoto-shrink_400_400/0/1615592343661?e=1674086400&v=beta&t=39XPbUBmrpMk82H27dt2WUU8OqKS5meZYk0hcIzYyso" alt="Image" width="200" height="200"></td>
+    <td rowspan="5"><img src="https://raw.githubusercontent.com/thien-nguyen-luu/NguyenIsWin/refs/heads/main/static/avatar.jpg" alt="Image" width="200" height="200"></td>
     <td>&ensp;<b><font size="+4"> THIEN NGUYEN</font></b></td>
   </tr>
   <tr>
