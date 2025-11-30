@@ -14,7 +14,7 @@ address:
     locality: Kortrijk - Belgium
 
 publications:
-- 
+  - 
     me: Thien Nguyen Luu Minh
     authors:
     - Michiel Van Melkebeke,
