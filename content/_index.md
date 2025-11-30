@@ -5,11 +5,11 @@ imgname:
   type: image/jpeg
   
 name: "Thien Nguyen"
-personal_title: "Doctoral Researcher"
+personal_title: "Doctoral Researcher - Ghent University"
 address: 
   - 
     name: Belgium
-    street: Somewhere
+    street: Minister Tacklaan
     postal_code: "8500"
     locality: Kortrijk
 
@@ -23,7 +23,7 @@ publications:
     - Nguyen, Truc Thanh 
     - Tran, Tu Ngoc 
     - Le, Kien Anh
-    title: "Experimental and Computational Fluid Dynamics Investigation of Rice Husk Updraft Gasifier with Various Gasification Agents"
+    title: "Place Holder for title"
     date: 2013
     journal: Chemical Engineering Transactions
     image: img/PaperCFD.png
@@ -75,7 +75,7 @@ pages={223-228}"
 
 # Bio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A self-motivated researcher with hands-on experience in multidisciplinary principles within the boundaries of chemical engineering. Experienced in both experimental research for adsorption and modeling/simulation of separation processes (absorption, adsorption, membranes). I am interested in both mechanistic and statistical modeling, with a particular focus on integrating multiple tools to solve complex problems.
 
 # Hobby
 <font size="+3"> [✍️ **Project**]({{< ref "myproject/" >}})</font> 
