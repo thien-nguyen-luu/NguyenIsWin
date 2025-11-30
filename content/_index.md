@@ -26,7 +26,7 @@ publications:
     title: "Multiple linear regression in adsorption capacity prediction: Application in plastic waste pyrolysis oil purification"
     date: 2025
     journal: "Separation and Purification Technology"
-    image: "img/AC_multi_paper.jpg"
+    image: "img/Paper_Reg.jpg"
     citation: |
       @article{minh2025multiple,
         title={Multiple linear regression in adsorption capacity prediction: Application in plastic waste pyrolysis oil purification},
