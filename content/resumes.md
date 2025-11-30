@@ -21,7 +21,7 @@ title: My Résumés
     <td>&emsp;🏡<b><i>8500 Kortrijk, Belgium</b></i></td>
   </tr>
   <tr>
-    <td>&emsp;📞<b><i>+32 564988948964</b></i></td>
+    <td>&emsp;📞<b><i>+32 456026726</b></i></td>
   </tr>
 </thead>
 </table>
@@ -62,34 +62,12 @@ title: My Résumés
 
 ### 🔷 **EDUCATION AND TRAINING**
 
-◆ **Master's Degree in EM3E-4SW -- Membrane Engineering for A Sustainable World (Aug 2019 -- Jul 2021)**
-
-*Universiteit Twente -- Netherland, Grade: 8.25/10*
-
--   Project 1. Modelling of catalytic membrane reactor and Inert membrane reactor for multicomponent mass transfer behavior.
-
--   Project 2. Process design membrane integration intensifies para-xylene production plant. (See more)
-
--   Project 3. Synthesized silica-based membrane for gas sweetening process
-
-*University of Chemistry and Technology -- Prague, Grade A.*
-
--   Focused on process simulation, reactor design, separation processes and membrane processes modelling such us dialysis, reverse osmosis, nanofiltration and gas separation.
-
--   Practiced Aspen Plus, MATLAB and COMSOL. Conducted membrane testing and charactering.
-
-*Université de Montpellier, France, Grade 16/20.*
-
--   Mastered the fundamentals of inorganic, organic, hybrid material and material characterization.
-
--   Project: Capacitive deionization as technologies for brackish water desalination.
+◆ **Erasmus Mundus Joint Master’s Degree (EM3E-4SW) (Aug 2019 -- Jul 2021)**
+*Erasmus Mundus in Membrane Engineering for a Sustainable World*
+-  Universiteit Twente -- Netherland, Grade: 8.25/10
+-  University of Chemistry and Technology -- Prague, Grade A.
+-  Université de Montpellier, France, Grade 16/20.
 
 ◆ **Bachelor's degree in Chemical Engineering - Honor program (Aug 2012-- Apr 2017)**
-
 *Ho Chi Minh City-University of Technology, Vietnam*
-
--   Thesis topic: CFD simulation of biomass gasification.
-
--   Top 1 student in Division of Process and Equipment.
-
--   The team leader of the Undergraduate Scientific Research Project.
+Thesis topic: CFD simulation of biomass gasification.
